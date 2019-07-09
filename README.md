@@ -1,1 +1,1 @@
-# rx-js-forNoob
+# rx-js
